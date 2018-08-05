@@ -1,2 +1,2 @@
 # challengeRepo
-Here you can find little pieces of software and Code snippets
+Here you can find little pieces of software and code snippets
